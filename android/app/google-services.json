@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213962701257",
+    "project_id": "smart-hajj-umrah-app",
+    "storage_bucket": "smart-hajj-umrah-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213962701257:android:572f590e835c6b80ae1018",
+        "android_client_info": {
+          "package_name": "com.example.smart_hajj_umrah_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1oOe2AvHw6irHsPp6l3DqKDbcttAizI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
